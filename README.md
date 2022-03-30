@@ -74,6 +74,8 @@ Let's delete the appropriate information from `usersContact`, `usersAddress` and
 
 <!-- DELETE FROM users WHERE id = '114'; -->
 
+<!-- ATTACHED YOU WILL FIND THE SELECTED STATEMENTS: BRYAN -->
+
 ## Summary
 
 Make sure we understand these CRUD operations because soon we will be pulling these SQL commands into our Node/Express application.
